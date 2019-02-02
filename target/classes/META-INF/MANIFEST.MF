@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: arahee001c
+Build-Jdk: 10.0.2
+Implementation-Title: gs-messaging-rabbitmq
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gs-messaging-rabbitmq
+Created-By: Maven Integration for Eclipse
+
